@@ -1,3 +1,3 @@
 # Dir1
 Directory One
-ReadMe_Chnage
+ReadMe_Change
