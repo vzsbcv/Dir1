@@ -1,3 +1,5 @@
 Test8
 changed file name to lower case
-chnaged text to test returning files to master
+changed text to test returning files to master
+corrected spelling in previous lines
+
